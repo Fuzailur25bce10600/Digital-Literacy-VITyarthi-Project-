@@ -1,0 +1,7 @@
+UPI (Unified Payments Interface) fraud is a common cybercrime in India where attackers trick users into authorizing payments or revealing sensitive information. A typical scenario involves a scammer posing as a bank official, delivery agent, or customer support executive. The attacker contacts the victim through a phone call, SMS, or messaging app and creates a sense of urgency, such as claiming that the victim’s bank account will be blocked or that a refund is pending.
+
+The scammer then sends a fake payment request or a malicious link and instructs the victim to approve it or enter their UPI PIN. In some cases, victims are asked to install screen-sharing apps, allowing the attacker to access their device. Once the victim enters their PIN or approves the request, money is instantly transferred from their account.
+
+College students and young users are often targeted due to their frequent use of digital payments and limited awareness of such scams. The consequences include financial loss, emotional stress, and compromised personal data.
+
+This type of fraud highlights the importance of digital awareness. Understanding how such scams operate can help users identify suspicious behavior and avoid falling victim to these attacks.
